@@ -6,7 +6,7 @@
 <h2>About Me</h2>
 <p> I have been working on Python for 3 years. After trying many libraries and frameworks, I decided to specialize in Django. I have been developing projects with Django for about 2 years. I have enough experience on the server besides Python and Django. Nginx, Gunicorn, Daphne etc. I also use up-to-date technologies such as Javascript, Css, React.js on the front-end.
 </p>
-- 📫 How to reach me <b>ali.yildirim@norbit.com.tr</b>
+- 📫 How to reach me <b>ali.yildirim@tarsierteknoloji.com</b>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
